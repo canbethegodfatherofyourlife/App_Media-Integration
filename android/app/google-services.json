@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582574074876",
+    "project_id": "locus-tracker-e96e2",
+    "storage_bucket": "locus-tracker-e96e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582574074876:android:81c61e6450d04eff67a079",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582574074876-7lt348m92qihsg4utinbbojejucmgu2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "c201e2fe51a5a963258c545ef4b794d58e4f3155"
+          }
+        },
+        {
+          "client_id": "582574074876-ptlsm2mossg8is67fd0t8ktajh7itvda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuauZPpL6rl4WkCxSszTwNoP9O_B6USSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582574074876-ptlsm2mossg8is67fd0t8ktajh7itvda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
